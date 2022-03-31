@@ -1,9 +1,9 @@
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 <h1 align="center">Hi 👋, I'm Carlos Suarez Rocha (Charlie)</h1>
 <h3 align="center">A junior developer working at Continental.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charliesuarx" alt="charliesuarx" /></a> </p>
+
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning **C# and Microsoft SQL Server Manager**
 
