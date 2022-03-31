@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **C# and Microsoft SQL Server Manager**
+- 🌱 I’m currently learning **C#, Microsoft SQL Server Manager and Jira**
 
 - 📫 How to reach me **charliesuarx@hotmail.com**
 
